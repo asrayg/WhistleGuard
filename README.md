@@ -1,5 +1,7 @@
 # WhistleGuard - README
 
+## This was for the Iowa State University Hack Club's Mini Hackathon. This was more focused on making designs and how an app targeted college students would look like.
+
 ## Introduction
 
 **WhistleGuard** is your all-in-one safety app designed to help prevent and report sexual assault (SA) in real-time. While we can't stop SA from happening, we can provide tools to enhance personal safety and ensure faster reporting and support.
